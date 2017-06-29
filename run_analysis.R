@@ -1,7 +1,7 @@
 #------------------------------------------------------#
 #Created by: John Hamm
 #Coursera Getting and Cleaning Data: Final Assignment
-#Date: 06/26/2017 - 06/27/2017
+#Date: 06/26/2017 - 06/29/2017
 #------------------------------------------------------#
 
 #Load the necessary packages for the assignment
